@@ -16,6 +16,7 @@ var cli = meow([
   "  diff       Diff all packages or a single package since the last release",
   "  run        Run npm script in each package",
   "  ls         List all public packages",
+  "  ncu        Runs npm-check-updates on all modules",
   "",
   "Options:",
   "  --independent, -i  Version packages independently",

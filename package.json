@@ -24,6 +24,7 @@
     "lodash.unionwith": "^4.2.0",
     "meow": "^3.7.0",
     "mkdirp": "^0.5.1",
+    "npm-check-updates": "^2.5.8",
     "pad": "^1.0.0",
     "progress": "^1.1.8",
     "readline-sync": "^1.2.21",
